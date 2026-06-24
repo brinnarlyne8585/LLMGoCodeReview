@@ -43,11 +43,11 @@ The key experiment settings are grouped near the bottom of that file:
 
 ```python
 llm_model = "tencent-v3"
-PROMPT_VERSION = "list_p2"
+PROMPT_VERSION = "list_p1"
 EXPERIMENTS = [
     ("neighborhood_similar", "26A-similar-medium-0.001", True),
 ]
-RUN_IDS = [4]
+RUN_IDS = [0]
 ```
 
 Each experiment tuple is:
