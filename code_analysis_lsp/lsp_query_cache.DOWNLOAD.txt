@@ -1,0 +1,9 @@
+The LSP query cache is distributed separately because it is too large for the GitHub repository.
+
+Expected local path after download:
+
+  code_analysis_lsp/lsp_query_cache.db
+
+Download URL:
+
+  https://huggingface.co/datasets/brinnarlyne8585/LLMGoCodeReview-assets/resolve/main/LLMReviewer/lsp_query_cache.db
