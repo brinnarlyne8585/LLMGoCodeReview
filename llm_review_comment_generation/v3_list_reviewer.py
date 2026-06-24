@@ -333,7 +333,7 @@ if __name__ == "__main__":
     EXPERIMENTS = [
         ("neighborhood_similar", "26A-similar-medium-0.001", True),
     ]
-    RUN_IDS = [4]  # Run ids to execute.
+    RUN_IDS = [0]  # Run ids to execute.
 
     OUTPUT_VERSION = PROMPT_VERSION
     PROMPTER_TYPE, PROMPT_NAME = resolve_prompt_version(PROMPT_VERSION)
